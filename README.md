@@ -11,7 +11,7 @@ I'm a passionate about AI,ML,Data Science,Data Analysis and keen to learn and ex
 ## 🌟 Projects
 
 - [Sales Pulse](https://github.com/shikham12/Sales-Pulse): A real-time powerbi dashboard created to analyse data for new markets and opportunities.
-- [Image Resizing Application](): A real-time image resizing application creates using Python.
+- [Image Resizing Application](https://github.com/shikham12/Image-Resizing-Application): A real-time image resizing application creates using Python.
 
 ## 📫 Contact Me
 - Email: shikhamehta1205@gmail.com
