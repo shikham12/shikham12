@@ -11,7 +11,7 @@ I'm a passionate about AI,ML,Data Science,Data Analysis and keen to learn and ex
 ## 🌟 Projects
 
 - [Sales Pulse](https://github.com/shikham12/Sales-Pulse): A real-time powerbi dashboard created to analyse data for new markets and opportunities.
-- [Image Resizing Application](https://github.com/shikham12/Image-Resizing-Application): A real-time image resizing application created using Python.
+- [Algorithm Trading](https://github.com/shikham12/Algo-Trading-System-with-Machine-Learning-Automation): A system with ML prediction and Google Sheet automation.
 - [Budget Tracking Application](https://github.com/shikham12/Budget-Tracker-Application) : An application to track and manage financial transactions.
 - [Indian Sign Language Recognition](https://github.com/shikham12/ISL-Recognition) : A real-time full stack web application for ISL gesture recognition.
 - [Multi-Disease Risk Predictor System](https://github.com/shikham12/Multi-Disease-Risk-Prediction-System) : A ML pipeline to predict the risk of disease using patient medical data.
